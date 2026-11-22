@@ -1,0 +1,29 @@
+# Unreal Engine 5 generated / local files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.idea/
+.vscode/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+*.sdf
+*.opensdf
+*.pdb
+*.obj
+*.log
+*.tmp
+*.user
+*.userprefs
+
+# Build artifacts
+Build/*/
+!Build/*/Icon.png
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
